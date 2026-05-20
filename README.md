@@ -7,7 +7,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=bhardwajjyash&color=00ff41&style=flat-square&label=👁+VIEWS)](https://github.com/bhardwajjyash)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-bhardwaj-9235b231b)&nbsp;
 [![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bhardwajj_yash)&nbsp;
-[![Gmail](https://img.shields.io/badge/-yashbhardwajj01@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:yashbhardwajj01@gmail.com)
+[![Gmail](https://img.shields.io/badge/-aayushkuri2156@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushkuri2156@gmail.com)
 
 </div>
 
@@ -86,9 +86,7 @@
 
 </div>
 
----
-![snake](https://raw.githubusercontent.com/Bhardwajjyash/Bhardwajjyash/output/github-contribution-grid-snake-dark.svg)
----
+
 
 
 <div align="center">
