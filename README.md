@@ -1,12 +1,11 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=header&text=YASH%20BHARDWAJ&fontSize=42&fontColor=00ff41&fontAlignY=65&animation=twinkling&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20ML%20%2F%20AI&descAlignY=85&descSize=14&descColor=888888"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d0d,50:00ff41,100:0d0d0d&height=120&section=header&text=AAYUSH%20SINGH&fontSize=42&fontColor=00ff41&fontAlignY=65&animation=twinkling&desc=Software%20Engineer%20%7C%20Full%20Stack%20%7C%20ML%20%2F%20AI&descAlignY=85&descSize=14&descColor=888888"/>
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=550&lines=%24+whoami+%E2%86%92+Yash+Bhardwaj;%24+sudo+build+something+cool;%24+git+commit+-m+%22shipped+it+%F0%9F%9A%80%22;%24+python+train.py+--model+yolo;%24+npm+run+make-magic" alt="Typing SVG"/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=bhardwajjyash&color=00ff41&style=flat-square&label=👁+VIEWS)](https://github.com/bhardwajjyash)&nbsp;
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/yash-bhardwaj-9235b231b)&nbsp;
-[![Instagram](https://img.shields.io/badge/-Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/bhardwajj_yash)&nbsp;
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aayush-singh01/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-aayushkuri2156@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushkuri2156@gmail.com)
 
 </div>
