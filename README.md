@@ -79,11 +79,6 @@
 
 <div align="center">
 
-### 📬 Let's Connect & Build Something Awesome
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yash-bhardwaj-9235b231b)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/bhardwajj_yash)
-[![Gmail](https://img.shields.io/badge/Gmail-Mail_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yashbhardwajj01@gmail.com)
 
 </div>
 
