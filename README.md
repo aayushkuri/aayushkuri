@@ -4,7 +4,7 @@
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&duration=2500&pause=800&color=00FF41&center=true&vCenter=true&width=550&lines=%24+whoami+%E2%86%92+Yash+Bhardwaj;%24+sudo+build+something+cool;%24+git+commit+-m+%22shipped+it+%F0%9F%9A%80%22;%24+python+train.py+--model+yolo;%24+npm+run+make-magic" alt="Typing SVG"/>
 
-[![Profile Views](https://komarev.com/ghpvc/?username=bhardwajjyash&color=00ff41&style=flat-square&label=👁+VIEWS)](https://github.com/aayushkuri)&nbsp;
+[![Profile Views](https://komarev.com/ghpvc/?username=aayushkuri&color=00ff41&style=flat-square&label=👁+VIEWS)](https://github.com/aayushkuri)&nbsp;
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/aayush-singh01/)&nbsp;
 [![Gmail](https://img.shields.io/badge/-aayushkuri2156@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:aayushkuri2156@gmail.com)
 
